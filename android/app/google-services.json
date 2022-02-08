@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "137061599257",
+    "project_id": "e-millenialstore",
+    "storage_bucket": "e-millenialstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137061599257:android:d72c97533c891e481e8288",
+        "android_client_info": {
+          "package_name": "com.example.nunally_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137061599257-ojvpnv8m585vdjtfiunve4a86j5vtm57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqr9CZB_lVWIg0sWp2Z68nJ4dZsxvDZNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137061599257-ojvpnv8m585vdjtfiunve4a86j5vtm57.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137061599257-ftn46lfr245k7b12dj9emimvel5q5hb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nunallyWallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
